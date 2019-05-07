@@ -19,3 +19,13 @@
 *
 * Use custom.css to override the default CloudStack styles
 */
+.login {
+  display: block;
+  width: 100%;
+  height: 350px;
+  /*+placement:shift 0 80px;*/
+  position: relative;
+  left: 0;
+  top: 80px;
+  background: #bfe1f3;
+}
